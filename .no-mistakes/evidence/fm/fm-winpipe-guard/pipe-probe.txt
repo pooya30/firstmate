@@ -1,0 +1,6 @@
+== base
+REFUSED
+exit=0
+== target
+REFUSED
+exit=0
